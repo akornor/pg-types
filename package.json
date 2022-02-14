@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "knex": "^1.0.3",
+    "pg": "^8.7.3",
+    "pgsql-parser": "^13.1.13"
+  }
+}
